@@ -1,0 +1,90 @@
+Description
+
+
+Explorez les dangers de l'espace avec [b]SpaceSlog[/b]. Une simulation de vaisseau spatial plutôt difficile qui met en avant la construction de vaisseau, l’interaction avec l'équipage et l'exploration. Les sources d'inspiration qui ont mené au développement de SpaceSlog sont tout autant des jeux tels que Rimworld, Starship Theory, Dwarf Fortress et X-COM que des œuvres d'autres médias telles que Firefly, Battlestar Galactica, Stargate Universe et The Expanse.
+
+Votre vaisseau principal a été attaqué par une entité inconnue. Heureusement plusieurs survivants ont pu s'échapper dans une petite unité. Vous voici maintenant seuls, affamés et perdus dans l'espace, vous n'avez d'autre choix que d'explorer le cosmos et les guider pour vous mettre tous en sécurité.
+
+
+[b]Fonctionnalités actuelles[/b]
+
+[list]
+[*]Construisez votre navire comme vous l'entendez.
+[*]Une nouvelle galaxie à explorer générée à chaque nouvelle partie.
+[*]Rencontrez d'autres factions, amies ou hostiles.
+[*]Gérez les humeurs et les besoins de votre équipage.
+[*]Commercez avec des navires et factions de passage.
+[*]Simulation de génération électrique.
+[*]Écrivez une nouvelle histoire à chaque partie.
+[*]Support étendu des mods.
+[*]Et bien d'autres choses...
+[/list]
+
+[b]Construisez votre vaisseau comme vous le le voulez[/b]. Construire un vaisseau petit mais agile avec un équipage léger ou un grand vaisseau de guerre avec un équipage nombreux, ce choix est le vôtre. Assurez-vous simplement d'avoir suffisamment de fournitures pour gérer votre équipage et faire fonctionner votre vaisseau.
+L'emplacement des portes et des systèmes d'alimentation doit être soigneusement étudié en cas de brèches ou d'autres dangers.
+
+[b]Explorez une galaxie générée de façon procédurale[/b]. À chaque nouvelle partie, le système d'évènements du jeu va générer une nouvelle galaxie à explorer. Le niveau de difficulté que vous choisissez va influencer la façon dont la galaxie et les évènements seront générés.
+
+[b]L'exploration est la clé de la survie[/b]. Restez trop longtemps au même endroit ou restez bloqué, et votre équipage va probablement mourir. Vous devez toujours être en mouvement et trouver d'autres vaisseaux ou factions pour commercer et survivre.
+
+[b]Besoins et humeur de l'équipage[/b]. Les besoins de votre équipage doivent être satisfaits pour que votre vaisseau fonctionne parfaitement. Un équipage en colère peut se rebeller, décider de ne pas travailler ou complètement baisser les bras. Veillez à disposer de suffisamment de nourriture et d'eau pour nourrir votre équipage. Vous devez également choisir judicieusement votre capitaine.
+
+[b]Support étendu des mods[/b]. Toutes les données du jeu sont stockées dans des fichiers JSON. Cela signifie qu'il est extrêmement facile de modifier les éléments du jeu et même d'en ajouter de nouveaux. À l'avenir, nous prévoyons d'étendre ce système encore davantage.
+
+[b]Expérience en développement de mods[/b]. L'auteur de SpaceSlog a passé les 10 dernières années à développer de façon rigoureuse un mod important et populaire pour Mount&Blade Warband appelé A World of Ice and Fire. C'est la raison pour laquelle il souhaite offrir un support étendu aux mods, ce qui devrait rassurer tous ceux qui souhaitent acheter SpaceSlog, sachant que l'auteur est résolu à finir son projet.
+
+
+Description courte
+
+Construisez votre vaisseau, gérez votre équipage et explorez le cosmos tout en faisant de votre mieux pour maintenir votre équipage en vie et votre vaisseau en parfait état de marche. Ce jeu utilise une IA pilotée par les événements et des simulations de systèmes de vaisseaux pour garantir un gameplay stimulant et une histoire différente à chaque partie.
+
+
+Pourquoi l'accès anticipé ?
+
+SpaceSlog est un projet complexe et ambitieux développé par une seule personne. Il est en développement depuis plusieurs années et a maintenant besoin du soutien et du retour de la communauté. Nous ne voulons pas développer le jeu en vase clos, mais plutôt le transformer en quelque chose auquel nos fans veulent vraiment jouer et nous pensons que l'accès anticipé est le meilleur moyen d'y parvenir.
+
+
+Pendant environ combien de temps ce jeu sera-t-il en accès anticipé ?
+
+Il est difficile de donner une durée précise, mais nous prévoyons d'être en accès anticipé jusqu'en février 2026 environ. Nous avons une longue liste de fonctionnalités et d'idées pour le jeu qui prendront du temps à développer si nous voulons garantir un produit de qualité.
+
+Nous vous conseillons toutefois de n'acheter le jeu qu'en fonction de ce qu'il contient actuellement et non de ce qui est prévu pour l'avenir, afin d'éviter toute déception.
+
+
+
+En quoi la version finale prévoit d'être différente de la version en accès anticipé ?
+
+La version complète comportera beaucoup plus de systèmes simulés et une expérience de jeu beaucoup plus riche. Le cours du développement changera cependant en fonction des réactions de la communauté. Vous trouverez ci-dessous quelques éléments que nous prévoyons d'ajouter au jeu, mais qui ne sont pas garantis.
+
+[list]
+[*]Rencontres aléatoires avec des planètes, des monstres de l'espace et d'autres formes de vie extraterrestre.
+[*]Envoyer des équipes d'exploration sur les planètes et les vaisseaux abandonnés pour y chercher des provisions.
+[*]Observer les relations qui se nouent et se dénouent entre les différents membres de l'équipage.
+[*]De nombreux types de créatures que vous pouvez apprivoiser et dresser.
+[*]Éléments de simulation d'atmosphère et de chaleur.
+[*]Recherchez de nouvelles technologies et utilisez-les pour aider votre équipage à survivre et à prospérer.
+[*]Systèmes de combat tactique entre vaisseaux et à pied, y compris pour des intrusions et des groupes de débarquement.
+[*]Système complexe de blessures et de maladies.
+[*]Hydroponie et agriculture.
+[*]Une carte de la galaxie qui vous permet de planifier et de retracer votre voyage.
+[*]Différentes races extraterrestres à découvrir.
+[/list]
+
+Encore une fois, ces fonctionnalités ne sont pas garanties, mais idéalement c'est ce que nous aimerions ajouter. Pour éviter toute déception, n'achetez le jeu qu'en fonction de ce qu'il contient actuellement et non de ce qui est prévu pour l'avenir.
+
+
+
+Quel est l'état actuel de la version en accès anticipé ?
+
+Le jeu est actuellement entièrement jouable et nous faisons de notre mieux pour qu'il y ait le moins de bugs possible. Le jeu ne représente cependant qu'une petite fraction de ce que nous prévoyons de réaliser, ce qui signifie que dans son état actuel, il peut manquer de fonctionnalités de jeu et de contenu.
+
+
+Le jeu sera-t-il tarifé différemment pendant et après l'accès anticipé ?
+
+Le prix final reste à déterminer, mais nous prévoyons d'augmenter le prix à la sortie de l'accès anticipé.
+
+
+Comment comptez-vous impliquer la communauté dans le processus de développement ?
+
+Nous mettons en ligne divers votes sur notre serveur Discord ([url]https://discord.gg/cBNNfht[/url]) et nous encourageons les suggestions et retours de notre communauté, là et sur nos forums ([url]https://produnogames.com/forums[/url]) ; nous tiendrons compte toutes vos remarques avec sérieux et le plus grand soin. Nous savons que nous ne pouvons pas faire le meilleur jeu possible seuls, nous demandons à nos joueurs de nous faire les retours et suggestions qui nous aideront améliorer le jeu et le conduire vers des sommets.
+Nous montrerons aussi des vidéos de développement via notre canal YouTube ([url]https://www.youtube.com/channel/UCkj18MICGlM2i3TP_o0338w[/url]).
