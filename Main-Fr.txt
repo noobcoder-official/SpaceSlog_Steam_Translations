@@ -36,7 +36,7 @@ L'emplacement des portes et des systèmes d'alimentation doit être soigneusemen
 
 Description courte
 
-Construisez votre vaisseau, gérez votre équipage et explorez le cosmos tout en faisant de votre mieux pour maintenir votre équipage en vie et votre vaisseau en parfait état de marche. Ce jeu utilise une IA pilotée par les événements et des simulations de systèmes de vaisseaux pour garantir un gameplay stimulant et une histoire différente à chaque partie.
+Construisez votre vaisseau, gérez l'équipage et explorez le cosmos tout en faisant de votre mieux pour maintenir votre équipage en vie et votre vaisseau en état. Ce jeu utilise une IA pilotée par les événements pour garantir un gameplay stimulant et une histoire différente à chaque partie.
 
 
 Pourquoi l'accès anticipé ?
