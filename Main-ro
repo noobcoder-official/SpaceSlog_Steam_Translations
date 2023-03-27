@@ -1,0 +1,95 @@
+Description (Do not translate)
+
+
+Călătorește prin spațiu în [b]SpaceSlog[/b]. Un simulator de navă spațială științifico-fantastică palpitant, cu accent pe construcția de nave, interacțiunea cu echipajul și explorare. Inspirat de jocuri precum Rimworld, Starship Theory, Dwarf Fortress și X-COM și serialte TV precum Firefly, Battlestar Galactica, Stargate Universe și The Expanse.
+
+Principala ta navă a fost atacată de o entitate necunoscută. Din fericire, câțiva supraviețuitori au reușit să evadeze într-o navă mică. Acum singur, flămând și pierdut în spațiu, trebuie să explorezi cosmosul și să-i ghidezi către siguranță.
+
+
+[b]Caracteristici curente[/b]
+
+[list]
+[*]Construiește-ți nava în orice mod alegi.
+[*]O galaxie diferită și unică de explorat de fiecare dată când joci.
+[*]Întâlnește alte grupuri, prieteni sau inamici.
+[*]Gestionați-vă stările de spirit și nevoile echipajelor.
+[*]Comerț cu nave și grupuri întâlnite.
+[*]Simularea electricității și energiei.
+[*]Dezvoltă-ți propria poveste de fiecare dată când joci.
+[*]Suport extins pentru modificări ale fanilor.
+[*]Plus mai multe.
+[/list]
+
+[b]Construiește-ți nava așa cum vrei[/b]. Indiferent dacă doriți să construiți o navă mică, dar agilă, cu un echipaj mic, sau o navă mare cu un echipaj numeros, alegerea vă aparține. Asigurați-vă că aveți suficiente provizii pentru a vă gestiona echipajul și pentru a vă menține nava în funcțiune.
+Trebuie selectate atent locațiile ușilor și sistemelor dvs. de alimentare în cazul unor breșe sau alte pericole.
+
+[b]Explorează o galaxie generată treptat[/b]. De fiecare dată când jucați, sistemul de evenimente al jocului va genera o galaxie diferită pe care să o explorați. Indiferent de dificultatea pe care o alegeți, va influența modul în care această galaxie sau evenimentele sunt generate.
+
+[b]Explorarea este cheia supraviețuirii[/b]. Rămâneți prea mult într-un singur loc sau rămâneți blocați și echipajul dvs. va muri cu siguranță. Trebuie să continuați să vă mișcați și să găsiți alte nave sau grupuri cu care să faceți schimb pentru a supraviețui.
+
+[b]Nevoile și stările de spirit ale echipajului[/b]. Nevoile echipajului dumneavoastră trebuie să fie satisfăcute pentru a vă menține nava pe deplin funcțională. Un echipaj furios se poate răzvrăti, decide să nu muncească sau să renunțe complet. Asigurați-vă că aveți suficientă hrană și apă pentru a vă hrăni echipajul. De asemenea, trebuie să-ți alegi căpitanul cu înțelepciune.
+
+[b]Suport extins pentru modificări[/b]. Toate datele jocului sunt stocate în fișiere JSON. Astfel că este extrem de ușor să schimbi orice în prezent în joc și chiar să adaugi elemente noi. În viitor, intenționăm să ne extindem și mai mult în suportul oferit fanilor plini de creativitate în crearea de noi experiențe cu jocul nostru ca bază.
+
+[b]Pedigree de dezvoltare a modului[/b]. Autorul jocului SpaceSlog și-a petrecut ultimii 10 ani dezvoltând cu minuțiozitate o modificare mare și populară pentru Mount&Blade Warband numită A World of Ice and Fire. Acesta este motivul pentru este dorită o asistență extinsă pentru moduri și, sperăm, ar trebui să ofere siguranță oricui dorește să cumpere SpaceSlog, știind că autorul este dedicat, serios și dorește să ducă un proiect sau joc până la capăt.
+
+
+
+Short description (Do not translate) (Needs to be between 200-300 characters)
+
+Construiește-ți nava, gestionează-ți echipajul și explorează cosmosul în timp ce faci tot posibilul să îți menții echipajul în viață și nava pe deplin funcțională. Acest joc se folosește de IA pentru a simula evenimente și sisteme de navă pentru a se asigura că jocul este mereu palpitant și fiecare joc pe care îl jucați are o poveste diferită de spus.
+
+
+
+Why early access? (Do not translate)
+
+SpaceSlog este un proiect complex și ambițios dezvoltat de o singură persoană, deja în dezvoltare de câțiva ani și care necesită acum sprijin și feedback din partea comunității. Nu vrem să dezvoltăm jocul într-un vid, ci mai degrabă am transforma jocul în ceva ce fanii noștri doresc cu adevărat să joace și considerăm că o versiune Early Acess este cel mai bun mod de a realiza acest lucru.
+
+
+
+How long? (Do not translate)
+
+Este greu de specificat un moment, dar intenționăm să fim în acces anticipat până în aproximativ Februarie 2026. Avem o listă lungă de caracteristici și idei pentru joc, care necesită timp pentru a se dezvolta dacă dorim să asigurăm un produs de calitate.
+Cu toate acestea, sugerăm cu tărie să achiziționați jocul doar pe baza a ceea ce este în joc acum și nu a ceea ce este planificat pentru viitor, pentru a evita dezamăgirile. Jocul va deveni doar mai complex și interesant!
+
+
+
+Changed when finished? (Do not translate)
+
+Versiunea completă va avea mult mai multe sisteme simulate și o experiență de joc mult mai bogată. Planurile de dezvoltare se schimbă însă în funcție de feedback-ul din partea comunității noastre. Mai jos sunt câteva lucruri pe care intenționăm să le adăugăm în joc, dar nu sunt garantate.
+
+[list]
+[*]Întâlniri aleatorii cu planete, monștri spațiali și alte forme de viață extraterestre.
+[*]Trimite echipaje pe planete și navele abandonate pentru a căuta provizii.
+[*]Urmăriți cum relațiile cresc și scad între diferiți membri ai echipajului.
+[*]Multe tipuri de creaturi pe care le poți îmblânzi și antrena.
+[*]Elemente simulate de căldură și atmosferă.
+[*]Cercetați noi tehnologii și folosiți-le pentru a vă ajuta echipajul să supraviețuiască și să prospere.
+[*]Sisteme tactice de luptă între nave și pe jos, inclusiv breșe și grupuri de aterizare.
+[*]Sistem complicat de răni și îmbolnăviri.
+[*]Hidroponia si agricultura.
+[*]O hartă a galaxiei care vă permite să vă planificați și să urmăriți călătoria.
+[*]Diferite rase extraterestre de descoperit.
+[/list]
+
+Din nou, aceste elemente nu sunt garantate, sunt ceea ce am dori să adăugăm într-o situație ideală. Vă rugăm să cumpărați jocul doar pe baza a ceea ce este în joc acum și nu a ceea ce este planificat pentru viitor, pentru a evita dezamăgirile.
+
+
+
+Playable? (Do not translate)
+
+În prezent, jocul este pe deplin funcțional și stabil și facem tot posibilul pentru a ne asigura că există cât mai puține erori posibil. Totuși, jocul reprezintă doar o mică parte din ceea ce intenționăm să realizăm, astfel că în starea sa actuală pot lipsi elemente și conținut de joc aflat în prezent în dezvoltare.
+
+
+
+Price change? (Do not translate)
+
+Prețul final nu este încă decis, dar intenționăm să creștem prețul la ieșirea din Early Acess.
+
+
+
+Final words. (Do not translate)
+
+Organizăm diverse sondaje pe canalul nostru discord (https://discord.gg/cBNNfht) și încurajăm sugestiile și feedback-ul comunității noastre de acolo și, de asemenea, pe forumurile noastre (https://produnogames.com/forums), toate acestea fiind luațe foarte în serios și luate în considerare cu atenție. Înțelegem că nu putem face cel mai bun joc posibil doar singuri, avem nevoie de o contribuție vitală și feedback din partea tuturor jucătorilor noștri pentru a ne ajuta să ne perfecționăm și să ne direcționăm jocul către măreție.
+De asemenea, vom încărca videoclipuri privind progresul dezvoltării pe canalul nostru YouTube (https://www.youtube.com/channel/UCkj18MICGlM2i3TP_o0338w).
+
