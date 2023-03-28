@@ -1,7 +1,7 @@
 Description (Do not translate)
 
 
-Schlage dich durchs Weltall in [b]SpaceSlog[/b]. Eine herausfordernde Sci-fi-Raumschiffsimulation mit einem besonderen Fokus auf dem Bauen von Raumschiffen, Interaktionen mit der Mannschaft und dem Erkunden des Alls. Inspiriert von Spielen wie Rimworld, Starship Theory, Dwarf Fortress und X-COM sowie anderen Filmen und Serien wie beispielsweise Firefly, Battlestar Galactica, Stargate Universe und The Expanse.
+Schlage dich durchs Weltall in [b]SpaceSlog[/b]. Eine herausfordernde Sci-Fi-Raumschiffsimulation mit einem besonderen Fokus auf dem Bauen von Raumschiffen, Interaktionen mit der Mannschaft und dem Erkunden des Alls. Inspiriert von Spielen wie RimWorld, Starship Theory, Dwarf Fortress und X-COM sowie anderen Filmen und Serien wie beispielsweise Firefly, Battlestar Galactica, Stargate Universe und The Expanse.
 
 Dein Flaggschiff wurde von einer unbekannten Entität angegriffen. Glücklicherweise haben es einige Überlebende geschafft, mit einem kleinen Schiff zu entkommen. Alleine, hungrig und verloren in den Weiten des Alls, ist es jetzt deine Aufgabe, den Kosmos zu erkunden und sie in Sicherheit zu führen.
 
@@ -12,33 +12,33 @@ Dein Flaggschiff wurde von einer unbekannten Entität angegriffen. Glücklicherw
 [list]
 [*]Baue dein Schiff wie immer du willst. 
 [*]Eine neu generierte Galaxie zum erkunden, jedes Mal wenn du ein Spiel beginnst.
-[*]Triff andere Fraktionen, Freunde oder auch Feine. 
-[*]Verwalte die Stimmung und die Bedürfnisse deiner Mannschaft. 
-[*]Handle mit vorbeikommenden Schiffen und Fraktionen
-[*]Machtsimulation 
+[*]Triff andere Fraktionen, Freunde oder auch Feinde. 
+[*]Sorge für die Stimmung und die Bedürfnisse deiner Mannschaft. 
+[*]Handle mit vorbeikommenden Schiffen und Fraktionen.
+[*]Machtsimulation. 
 [*]Schreibe jedes mal deine eigene Geschichte neu.
-[*]Umfangreiche Mod-Unterstützung 
+[*]Umfangreiche Mod-Unterstützung. 
 [*]Und vieles Anderes…
 [/list]
 
-[b]Baue dein Schiff auf jede Art, die dir gefällt[b] Egal ob du ein kleines, aber flinkes Schiff mit wenigen Besatzungsmitgliedern oder ein großes Schlachtschiff mit einer ebenso großen Crew bauen willst, die Entscheidung liegt bei dir. Stelle nur sicher, dass du genug Vorräte hast, um deine Besatzung am Leben und dein Schiff am Laufen zu halten.
+[b]Baue dein Schiff auf, wie es dir gefällt[b]. Egal ob du ein kleines, flinkes Schiff mit wenigen Besatzungsmitgliedern oder ein großes Schlachtschiff mit einer ebenso großen Crew bauen willst, die Entscheidung liegt bei dir. Stelle nur sicher, dass du genug Vorräte hast, um deine Besatzung am Leben und dein Schiff am Laufen zu halten.
 Beim Platzieren von Türen und Stromversorgungssystmen ist es wichtig, Vorsicht walten zu lassen, falls Lecks und andere Gefahren auftreten.
 
-[b]Erkunde eine prozedural generierte Galaxie[/b] In jedem Spieldurchlauf erzeugt das Eventsystem des Spiels eine andere Galaxie für dich zum Erkunden. Welchen Schwierigkeitsgrad du auswählst, wird beeinflussen, wie die Galaxie und Events erzeugt werden.
+[b]Erkunde eine prozedural generierte Galaxie[/b]. In jedem Spieldurchlauf erzeugt das Eventsystem des Spiels eine andere Galaxie für dich zum Erkunden. Welchen Schwierigkeitsgrad du auswählst, wird beeinflussen, wie die Galaxie und Events erzeugt werden.
 
 [b]Erkundung ist der Schlüssel zum Überleben[/b] Bleibe zu lange an einem Ort und deine Besatzung wird mit Sicherheit sterben. Du musst in Bewegung bleiben und andere Schiffe oder Fraktionen zum Handeln finden, um zu überleben.
 
 [b]Bedürfnisse und Stimmungen der Besatzung[/b] Die Bedürfnisse deiner Besatzung müssen erfüllt werden, um das Schiff voll funktionsfähig zu halten. Eine wütende Besatzung kann rebellieren, sich entscheiden, nicht mehr zu arbeiten oder auch total aufgeben. Stelle sicher, dass du genug Nahrung und Wasser hast, um deine Besatzung zu versorgen. Du musst auch deinen Kapitän mit Bedacht wählen.
 
-[b]Umfangreicher Mod-Support[/b] Alle Daten des Spiels sind in JSON files gespeichert. Das bedeutet, dass es extrem einfach ist, etwas, das gegenwärtig im Spiel ist, zu verändern oder auch neue Dinge hinzuzufügen. Wir planen dies in der Zukunft noch weiter auszubauen. 
+[b]Umfangreicher Mod-Support[/b] Alle Spieldaten sind in JSON files gespeichert. Dies bedeutet, dass es extrem einfach ist Gegenwärtiges im Spiel zu verändern oder auch neue Dinge hinzuzufügen. Wir planen dies in der Zukunft noch weiter auszubauen. 
 
-[b]Entwicklungsgeschichte[/b] Der Autor von SpaceSlog hat die letzten zehn Jahre damit verbracht eine große und populäre Mod für Mount&Blade Warband mit dem Namen “A World of Ice and Fire” zu entwickeln. Dies ist der Grund warum derart umfangreiche Mod-Unterstützung angestrebt wird und sollte hoffentlich möglichen Käufern von SpaceSlog Sorgenfreiheit geben, in dem Wissen dass der Autor engagiert und entschlossen ist das Projekt abzuschließen.
+[b]Entwicklungsgeschichte[/b] Der Autor von SpaceSlog hat die letzten zehn Jahre mühevoll damit verbracht eine große und populäre Mod für Mount&Blade Warband, mit dem Namen “A World of Ice and Fire”, zu entwickeln. Dies ist der Grund warum derart umfangreiche Mod-Unterstützung angestrebt wird und sollte hoffentlich möglichen Käufern von SpaceSlog Sorgenfreiheit geben, in dem Wissen, dass der Autor engagiert und entschlossen ist das Projekt abzuschließen.
 
 
 
 Short description (Do not translate) (Needs to be between 200-300 characters)
 
-Baue dein Schiff, verwalte die Mannschaft und erkunde den Kosmos, während du alles versuchst, um deine Leute am Leben und dein Schiff am Laufen zu halten. Dieses Spiel verwendet eine ereignisgesteuerte KI, damit das Spiel herausfordernd bleibt und jeder Durchlauf eine andere Geschichte erzählt.
+Baue dein Schiff, verwalte deine Mannschaft und erkunde den Kosmos, während du alles versuchst, um deine Leute am Leben und dein Schiff am Laufen zu halten. Dieses Spiel verwendet eine ereignisgesteuerte KI, damit das Spiel herausfordernd bleibt und jeder Durchlauf eine andere Geschichte erzählt.
 
 
 
@@ -62,16 +62,16 @@ Die Vollversion soll noch viele zusätzliche simulierte Systeme und eine umfangr
 
 [list]
 [*]Zufällige Begegnungen mit Planeten, Weltraum-Monstern und anderen Alien-Lebensformen.
-[*]Senden von Gruppen zu Planeten und verlassenen Schiffen, um nach Vorräten zu suchen. 
-[*]Beobachte wie Beziehungen zwischen Mannschaftsmitgliedern wachsen und zerbrechen. 
+[*]Das Senden von Gruppen zu Planeten und verlassenen Schiffen, um nach Vorräten zu suchen. 
+[*]Beziehungen zwischen Mannschaftsmitgliedern, die wachsen und zerbrechen. 
 [*]Viele verschiedene Arten von Kreaturen, die du zähmen und trainieren kannst.
 [*]Temperatur- und Atmosphärensimulation. 
-[*]Erforsche neue Technologien und hilf deiner Mannschaft so zu Überleben und sich weiter zu entwickeln.
-[*]Taktisches Kampfsystem zwischen Schiffen und zu Fuß, inklusive Rumpfbeschädigungen und Landungstruppen. 
-[*]Komplexes Verletzungs- und Krankheitssystem.
+[*]Das Erforschen neuer Technologien, um deiner Mannschaft beim Überleben und sich weiterentwickeln zu helfen.
+[*]Ein taktisches Kampfsystem zwischen Schiffen und zu Fuß, inklusive Rumpfbeschädigungen und Landungstruppen. 
+[*]Ein komplexes Verletzungs- und Krankheitssystem.
 [*]Hydroponik und Landwirtschaft.
 [*]Eine Karte der Galaxie, die es dir erlaubt zu planen und deine Reise nachzuverfolgen. 
-[*]Verschiedene Außerirdischen-Spezies zum entdecken. 
+[*]Entdecken von erschiedenen Außerirdischen-Spezies. 
 [/list]
 
 Diese Mechaniken sind nicht garantiert, sondern nur was wir gerne in einer idealen Situation hinzufügen würden. Bitte kauft das Spiel nur für die Dinge, die bereits im Spiel sind und nicht basierend auf dem, was noch geplant ist, um zukünftige Enttäuschungen zu vermeiden.
